@@ -1,0 +1,12 @@
+Ta train kai test .csv prepei na einai mesa ston fakelo datasets.
+
+Gia to worldcloud:
+python wordCloud.py
+
+Gia to testSet_categories.csv:
+python class_test_data.py
+
+Gia to classification:
+python classification.py orisma (opou orisma: "SVM", "NAYVE", "RANDOM_FOREST", "KNN")
+
+
